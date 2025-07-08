@@ -10,11 +10,11 @@
 
 ## 📊 데이터 EDA
 
-![eda-1](images/eda1.png)  
-![eda-2](images/eda2.png)
-![eda-2](images/eda3.png)
-![eda-2](images/eda4.png)
-![eda-2](images/eda5.png)
+![eda-1](images/EDA1.png)  
+![eda-2](images/EDA2.png)
+![eda-2](images/EDA3.png)
+![eda-2](images/EDA4.png)
+![eda-2](images/EDA5.png)
 
 ---
 
