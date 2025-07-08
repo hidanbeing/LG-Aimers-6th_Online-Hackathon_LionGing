@@ -1,21 +1,38 @@
-# 🧬 난임 환자 대상 임신 성공 여부 예측 (LG AIMERS 2024)
+# 🧬 난임 환자 대상 임신 성공 여부 예측 (LG AIMERS 6기 온라인 해커톤)
+---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-logo-path.png" height="120" alt="LG AIMERS Logo" />
-</p>
+## 🏁 대회 개요
 
-LG AIMERS AI 온라인 해커톤 참가 프로젝트  
-난임 환자 시술 데이터를 바탕으로 **임신 성공 여부를 예측**하는 AI 모델을 개발하였습니다.
-
-<br>
-
-## 📌 대회 개요
-
-- **주제**: 난임 환자 대상 임신 성공 여부 예측 모델 개발  
-- **데이터**: 시술 이력, 생리학적 정보 등 총 67개 컬럼  
-- **평가지표**: AUC (Area Under the Curve)  
-- **제한사항**: 외부 데이터 사용 금지  
+![intro](images/intro.png)
 
 ---
 
-## 🗂 프로젝트 구조
+## 📊 데이터 EDA
+
+![eda-1](images/eda1.png)  
+![eda-2](images/eda2.png)
+
+---
+
+## 🧹 데이터 전처리
+
+![preprocessing](images/preprocessing.png)
+
+---
+
+## ⚙️ 모델링 및 학습
+
+![modeling](images/modeling1.png)  
+![optuna](images/optuna.png)
+
+---
+
+## 📈 성능 결과
+
+![result](images/result.png)
+
+---
+
+## 🙌 팀원 소개
+
+![team](images/team.png)
